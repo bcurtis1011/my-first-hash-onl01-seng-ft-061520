@@ -2,8 +2,6 @@ def my_hash
   pet = {
     "dog" => "Ellie"
   }
-
-  
 end
 
 
